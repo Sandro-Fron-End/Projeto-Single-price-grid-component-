@@ -1,0 +1,31 @@
+DESAFIO
+
+Breve
+Seu desafio é desenvolver esse componente de preço e torná-lo o mais próximo possível do design.
+
+Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Portanto, se você tem algo que gostaria de praticar, sinta-se à vontade para experimentar.
+
+Seus usuários devem ser capazes de:
+
+Veja o layout ideal para o componente, dependendo do tamanho da tela do dispositivo
+Veja um estado de foco na área de trabalho para a frase de chamariz Inscreva-se
+Baixe o código inicial e vá até o README.mdarquivo. Isso fornecerá mais detalhes sobre o projeto. O style-guide.mdarquivo é onde você encontrará cores, fontes, etc.
+
+Começando
+
+Baixe o código inicial
+Configure o projeto com controle de versão (por exemplo, Git)
+
+Leia o README.mdarquivo e dê uma olhada no projeto
+
+Obtenha cores, fontes, etc. do style-guide.mdarquivo
+
+Configure sua arquitetura de projeto / arquivo como quiser
+
+Comece a codificar!
+
+Ideias para se testar:
+
+Escreva seus estilos usando um pré-processador, como Sass , Less ou Stylus
+
+Pratique o uso de recursos CSS modernos, como Flexbox e Grid
